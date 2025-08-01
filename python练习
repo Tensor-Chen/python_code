@@ -1,0 +1,5 @@
+print("\t\t个人情况\n姓名\t年龄\t住址\t爱好\nch\t18\t上海\t计算机")
+print('\r')
+print('姓名\t年龄\t住址\t爱好')
+print('ch\t18\t上海\t计算机')
+print("\t个人情况\n\n姓名\t年龄\t住址\t爱好\nch\t18\t上海\t计算机")
