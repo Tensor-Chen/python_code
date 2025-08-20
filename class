@@ -1,0 +1,19 @@
+class Calculator:
+    name = 'Good calculator'
+    price = 18
+    def add(self, x,y):
+        print(self.name)
+        result = x+y
+        print(result)
+    def minus(self,x,y):
+        result=x-y
+        print(result)
+    def times(self,x,y):
+        print(x*y)
+    def divide(self,x,y):
+        print(x/y)
+calcul=Calculator()
+calcul.name
+calcul.add(1,5)
+print(calcul.name)
+calcul.minus(1,8)
